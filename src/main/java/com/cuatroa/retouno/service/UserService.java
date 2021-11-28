@@ -9,7 +9,7 @@ import org.springframework.stereotype.Service;
 
 /**
  *
- * @author desarrolloextremo
+ * @author Duvan
  */
 @Service
 public class UserService {
